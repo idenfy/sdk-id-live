@@ -4,6 +4,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>idenfy</groupId>
   <artifactId>sdk-id-live</artifactId>
-  <version>1.5.4</version>
+  <version>1.7.3</version>
   <packaging>aar</packaging>
 </project>
